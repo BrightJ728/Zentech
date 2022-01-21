@@ -1,0 +1,23 @@
+{
+  "name": "student_portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/zentech/student_portal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/zentech/student_portal/issues"
+  },
+  "homepage": "https://gitlab.com/zentech/student_portal#readme",
+  "dependencies": {
+    "jszip": "^3.5.0",
+    "sweetalert2": "^10.13.3"
+  }
+}

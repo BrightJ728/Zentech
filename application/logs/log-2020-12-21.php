@@ -1,0 +1,28 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-21 20:08:26 --> Severity: error --> Exception: Call to undefined method Login::input() /home/kwaku/projects/entrance/student_portal/application/controllers/Login.php 64
+ERROR - 2020-12-21 20:08:53 --> Severity: Notice --> Undefined variable: query /home/kwaku/projects/entrance/student_portal/application/controllers/Login.php 72
+ERROR - 2020-12-21 20:08:53 --> Severity: error --> Exception: Call to a member function row() on null /home/kwaku/projects/entrance/student_portal/application/controllers/Login.php 72
+ERROR - 2020-12-21 20:09:11 --> Severity: error --> Exception: Cannot use object of type stdClass as array /home/kwaku/projects/entrance/student_portal/application/controllers/Login.php 73
+ERROR - 2020-12-21 20:10:56 --> Severity: error --> Exception: Call to undefined method User_model::get_parents() /home/kwaku/projects/entrance/student_portal/application/views/backend/superadmin/dashboard/index.php 69
+ERROR - 2020-12-21 20:12:03 --> Severity: Warning --> include(superadmin/lecturer/index.php): failed to open stream: No such file or directory /home/kwaku/projects/entrance/student_portal/application/views/backend/index.php 40
+ERROR - 2020-12-21 20:12:03 --> Severity: Warning --> include(): Failed opening 'superadmin/lecturer/index.php' for inclusion (include_path='.:/usr/share/php') /home/kwaku/projects/entrance/student_portal/application/views/backend/index.php 40
+ERROR - 2020-12-21 20:12:10 --> Severity: Warning --> include(superadmin/lecturer/index.php): failed to open stream: No such file or directory /home/kwaku/projects/entrance/student_portal/application/views/backend/index.php 40
+ERROR - 2020-12-21 20:12:10 --> Severity: Warning --> include(): Failed opening 'superadmin/lecturer/index.php' for inclusion (include_path='.:/usr/share/php') /home/kwaku/projects/entrance/student_portal/application/views/backend/index.php 40
+ERROR - 2020-12-21 20:12:17 --> Severity: Warning --> include(superadmin/lecturer/index.php): failed to open stream: No such file or directory /home/kwaku/projects/entrance/student_portal/application/views/backend/index.php 40
+ERROR - 2020-12-21 20:12:17 --> Severity: Warning --> include(): Failed opening 'superadmin/lecturer/index.php' for inclusion (include_path='.:/usr/share/php') /home/kwaku/projects/entrance/student_portal/application/views/backend/index.php 40
+ERROR - 2020-12-21 20:12:26 --> Severity: Warning --> include(superadmin/lecturer/index.php): failed to open stream: No such file or directory /home/kwaku/projects/entrance/student_portal/application/views/backend/index.php 40
+ERROR - 2020-12-21 20:12:26 --> Severity: Warning --> include(): Failed opening 'superadmin/lecturer/index.php' for inclusion (include_path='.:/usr/share/php') /home/kwaku/projects/entrance/student_portal/application/views/backend/index.php 40
+ERROR - 2020-12-21 21:11:23 --> Severity: error --> Exception: Call to undefined method Crud_model::program_relationship() /home/kwaku/projects/entrance/student_portal/application/controllers/Superadmin.php 1599
+ERROR - 2020-12-21 21:11:30 --> Severity: error --> Exception: Call to undefined method Crud_model::program_relationship() /home/kwaku/projects/entrance/student_portal/application/controllers/Superadmin.php 1599
+ERROR - 2020-12-21 21:13:42 --> Severity: Notice --> Undefined index: modified_at /home/kwaku/projects/entrance/student_portal/application/views/backend/superadmin/settings/variables/relationship/list.php 16
+ERROR - 2020-12-21 21:24:59 --> Severity: Notice --> Undefined index: name /home/kwaku/projects/entrance/student_portal/application/models/User_model.php 479
+ERROR - 2020-12-21 21:24:59 --> Severity: Notice --> Undefined index: password /home/kwaku/projects/entrance/student_portal/application/models/User_model.php 481
+ERROR - 2020-12-21 21:24:59 --> Severity: Warning --> password_hash() expects at least 2 parameters, 1 given /home/kwaku/projects/entrance/student_portal/application/models/User_model.php 481
+ERROR - 2020-12-21 21:24:59 --> Severity: Notice --> Undefined index: blood_group /home/kwaku/projects/entrance/student_portal/application/models/User_model.php 483
+ERROR - 2020-12-21 21:24:59 --> Query error: Unknown column 'blood_group' in 'field list' - Invalid query: INSERT INTO `users` (`name`, `email`, `password`, `gender`, `blood_group`, `address`, `phone`, `role`, `school_id`, `watch_history`) VALUES (NULL, 'nafiudanlawal@gmail.com', NULL, 'Male', NULL, 'Fanmilk, Ga West Municipal Assemble', '+233550080890', 'student', '1', '[]')
+ERROR - 2020-12-21 21:25:06 --> Severity: Notice --> Undefined index: name /home/kwaku/projects/entrance/student_portal/application/models/User_model.php 479
+ERROR - 2020-12-21 21:25:06 --> Severity: Notice --> Undefined index: password /home/kwaku/projects/entrance/student_portal/application/models/User_model.php 481
+ERROR - 2020-12-21 21:25:06 --> Severity: Warning --> password_hash() expects at least 2 parameters, 1 given /home/kwaku/projects/entrance/student_portal/application/models/User_model.php 481
+ERROR - 2020-12-21 21:25:06 --> Severity: Notice --> Undefined index: blood_group /home/kwaku/projects/entrance/student_portal/application/models/User_model.php 483
+ERROR - 2020-12-21 21:25:06 --> Query error: Unknown column 'blood_group' in 'field list' - Invalid query: INSERT INTO `users` (`name`, `email`, `password`, `gender`, `blood_group`, `address`, `phone`, `role`, `school_id`, `watch_history`) VALUES (NULL, 'nafiudanlawal@gmail.com', NULL, 'Male', NULL, 'Fanmilk, Ga West Municipal Assemble', '+233550080890', 'student', '1', '[]')

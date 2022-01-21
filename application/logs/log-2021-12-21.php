@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-21 11:16:21 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-12-21 11:17:28 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-12-21 12:50:47 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 12:53:18 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 12:53:19 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 12:53:19 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 12:53:20 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 12:53:21 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 12:53:26 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 12:53:26 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 12:53:27 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 12:53:38 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 13:59:03 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 14:26:45 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 14:28:28 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 14:28:30 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 14:28:31 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 14:28:32 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 14:28:59 --> 404 Page Not Found: Headofdepartment/dashboard
+ERROR - 2021-12-21 15:59:38 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-12-21 17:36:54 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 17:51:01 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-12-21 17:51:05 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-12-21 18:30:47 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-12-21 18:30:50 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 18:30:51 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 18:30:51 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 18:30:51 --> 404 Page Not Found: Head_of_department/dashboard
+ERROR - 2021-12-21 18:30:54 --> 404 Page Not Found: Head_of_department/dashboard
